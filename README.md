@@ -1,6 +1,7 @@
 PHP Deck Class
+==============
 
-Holds a full deck of playing cards with human readable names and image.
+Holds a full deck of playing cards with human readable names and images.
 
 May be used as a base for card games using PHP.
 
